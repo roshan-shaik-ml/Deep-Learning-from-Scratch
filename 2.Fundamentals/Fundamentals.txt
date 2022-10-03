@@ -1,0 +1,11 @@
+2. In Chapter 2 well directly use the building blocks we created in
+Chapter 1 to build and train models to solve a real-world problem:
+specifically, well use them to build both linear regression and
+neural network models to predict housing prices on a real-world
+dataset. Ill show that the neural network performs better than the
+linear regression and try to give some intuition for why. The first
+principles approach to building the models in this chapter should
+give you a very good idea of how neural networks work, but will
+also show the limited capability of the step-by-step, purely firstprinciples-based approach to defining deep learning models; this
+will motivate Chapter 3.
+

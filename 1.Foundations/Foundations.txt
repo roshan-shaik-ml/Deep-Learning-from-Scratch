@@ -1,0 +1,10 @@
+1. In Chapter 1 Ill show how mathematical functions can be
+represented as a series of operations linked together to form a
+computational graph, and show how this representation lets us
+compute the derivatives of these functions outputs with respect to
+their inputs using the chain rule from calculus. At the end of this
+chapter, Ill introduce a very important operation, the matrix
+multiplication, and show how it can fit into a mathematical
+function represented in this way while still allowing us to compute
+the derivatives well end up needing for deep learning.
+

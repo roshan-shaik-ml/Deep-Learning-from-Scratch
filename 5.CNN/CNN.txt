@@ -1,0 +1,12 @@
+5. In Chapter 5 I cover the fundamental ideas behind convolutional
+neural networks (CNNs), a kind of neural network architecture
+specialized for understanding images. There are many explanations
+of CNNs out there, so Ill focus on explaining the absolute
+essentials of CNNs and how they differ from regular neural
+networks: specifically, how CNNs result in each layer of neurons
+being organized into feature maps, and how two of these layers
+(each made up of multiple feature maps) are connected together via
+convolutional filters. In addition, just as we coded the regular
+layers in a neural network from scratch, well code convolutional
+layers from scratch to reinforce our understanding of how they
+work

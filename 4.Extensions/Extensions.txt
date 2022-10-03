@@ -1,0 +1,9 @@
+4. As it turns out, there are few theoretical guarantees that a neural
+network with a given architecture will actually find a good solution
+on a given dataset when trained using the standard training
+techniques well use in this book. In Chapter 4 well cover the
+most important training tricks that generally increase the
+probability that a neural network will find a good solution, and,
+wherever possible, give some mathematical intuition as to why
+they work.
+

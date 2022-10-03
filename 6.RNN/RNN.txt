@@ -1,0 +1,16 @@
+6. Throughout the first five chapters, well build up a miniature
+neural network library that defines neural networks as a series of
+Layerswhich are themselves made up of a series of Operations
+that send inputs forward and gradients backward. This is not
+how most neural networks are implemented in practice; instead,
+they use a technique called automatic differentiation. Ill give a
+quick illustration of automatic differentiation at the beginning of
+Chapter 6 and use it to motivate the main subject of the chapter:
+recurrent neural networks (RNNs), the neural network architecture
+typically used for understanding data in which the data points
+appear sequentially, such as time series data or natural language
+data. Ill explain the workings of vanilla RNNs and of two
+variants: GRUs and LSTMs (and of course implement all three
+from scratch); throughout, Ill be careful to distinguish between the
+elements that are shared across all of these RNN variants and the
+specific ways in which these variants differ.

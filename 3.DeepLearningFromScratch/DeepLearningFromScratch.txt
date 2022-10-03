@@ -1,0 +1,6 @@
+3. In Chapter 3 well take the building blocks from the firstprinciples-based approach of the first two chapters and use them to
+build the higher level components that make up all deep learning
+models: Layers, Models, Optimizers, and so on. Well end this
+chapter by training a deep learning model, defined from scratch, on
+the same dataset from Chapter 2 and showing that it performs
+better than our simple neural network

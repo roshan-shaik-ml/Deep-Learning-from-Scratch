@@ -1,0 +1,13 @@
+7. Finally, in Chapter 7, Ill show how everything we did from scratch
+in Chapters 16 can be implemented using the high-performance,
+open source neural network library PyTorch. Learning a
+framework like this is essential for progressing your learning about
+neural networks; but diving in and learning a framework without
+first having a solid understanding of how and why neural networks
+work would severely limit your learning in the long term. The goal
+of the progression of chapters in this book is to give you the power
+to write extremely high-performance neural networks (by teaching
+you PyTorch) while still setting you up for long-term learning and
+success (by teaching you the fundamentals before you learn
+PyTorch). Well conclude with a quick illustration of how neural
+networks can be used for unsupervised learning.
